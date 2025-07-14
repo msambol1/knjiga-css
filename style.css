@@ -2,25 +2,15 @@
 
 body{
 
-    background-color: rgb(179, 179, 152);
+    background-color: rgb(175, 175, 163);
     font-family: "Baskervville", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
-.text-normal {
-    font-weight: normal;
-}
-.text-bold {
-        font-weight: 800px;
-}
-h1, h2, h3{
-    color:rgb(199, 116, 134);
-}
-.main-heading{
-    color: yellow;
-}
 
-#css-sendbox{
-    color:magenta;
+h1, h2, h3{
+    color:rgb(197, 99, 120);
+    font-weight:400;
+    font-style:italic;
 }
